@@ -2,11 +2,11 @@
 
 ## This is my journey to learn Machine Learning, From Machine Learning Coursera By Andrew Ng
 
+### This will always be updated as long as I finish this Course, Wish me and you luck!
+
 **Do you want to learn Machine Learning too? Let's go with me, click this link okay!**
 
-[Coursera-ML-AndrewNg](https://www.coursera.org/learn/machine-learning)
-
-#This will always be updated as long as I finish this Course, Wish me and you luck!
+  * [Coursera-ML-AndrewNg](https://www.coursera.org/learn/machine-learning)
 
 Don't Forget, We can be friends, go tell me if you interest with me!
 
